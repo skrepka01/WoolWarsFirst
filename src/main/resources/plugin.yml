@@ -1,0 +1,3 @@
+name: Woolwars
+version: '${project.version}'
+main: me.woolwars.superinviz.woolwars.Woolwars
